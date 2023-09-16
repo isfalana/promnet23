@@ -1,0 +1,12 @@
+body {
+  min-height: 2000px;
+}
+
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #f9d771;
+}
+
+#kelebihan {
+  background-color: #f9d771;
+}
